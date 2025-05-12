@@ -13,9 +13,11 @@
 
 
 Умножение:
-![image](https://github.com/user-attachments/assets/48f2fef8-d6c4-4fec-8b19-4b0128d46d67)
+![image](https://github.com/user-attachments/assets/2a072259-966c-4219-acda-87648965e78b)
+
 
 
 Деление:
-![image](https://github.com/user-attachments/assets/153b4c71-4cf5-455d-b36d-9829aee5effa)
+![image](https://github.com/user-attachments/assets/91c76ae1-8bf4-4cae-a1f5-2c701472cdd0)
+
 
