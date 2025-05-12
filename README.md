@@ -2,17 +2,20 @@
 Данная программа умеет считать самые обычные арифметические действия без скобок.
 
 Сама программа:
-![image](https://github.com/user-attachments/assets/9871101c-5ed6-47e8-9f81-55b359f62c3f)
+![image](https://github.com/user-attachments/assets/0c86ed9a-85b0-4b07-bd26-51689e7ca539)
+
 
 Сложение:
-![image](https://github.com/user-attachments/assets/feee3b29-a91e-4486-97d3-6dc5b1b18d67)
+![image](https://github.com/user-attachments/assets/4c7fce18-d45c-43af-b049-367c0ffdb2c3)
 
 Вычетание:
-![image](https://github.com/user-attachments/assets/bde7818a-0eee-4302-8185-67c04417c4e5)
+![image](https://github.com/user-attachments/assets/6e61679b-58bf-42b8-b21c-7872265ce316)
 
 
 Умножение:
-![image](https://github.com/user-attachments/assets/1c13ca82-4647-4f7b-8526-b45a833a2433)
+![image](https://github.com/user-attachments/assets/48f2fef8-d6c4-4fec-8b19-4b0128d46d67)
+
 
 Деление:
-![image](https://github.com/user-attachments/assets/8fe2bd35-6275-48ac-8c82-77fd44333fe6)
+![image](https://github.com/user-attachments/assets/153b4c71-4cf5-455d-b36d-9829aee5effa)
+
